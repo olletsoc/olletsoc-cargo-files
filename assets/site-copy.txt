@@ -1,0 +1,166 @@
+---------------------------
+------ GAME OF WAR 
+---------------------------
+
+--------------- OLD
+- <div class="project_description"><h3>Art Direction, TV</h3><i>Game of War: Fire Age</i>, one of the top-grossing mobile games in the world, has tapped supermodel Kate Upton for its first global marketing campaign that uses traditional media. The first of three spots featuring Upton, by creative shop Untitled Worldwide, will premiere on television this evening with a push during the NFL Network's Thursday night football game.
+- 
+- As the Art Director on this spot I worked with the team to craft the story and build up the intrigue for this first national spot for the Game of War advertising campaign.
+- 
+- <a href="http://www.adweek.com/news/advertising-branding/game-war-fire-age-launches-first-global-campaign-starring-kate-upton-161397" target="_blank">AdWeek write up.</a>
+- 
+- </div><div class="project_info"><b>Client</b>
+- Machine Zone
+- 
+- <b>Category</b>
+- Art Direction, Advertising, TV
+- 
+- <b>Agency</b>
+- Untitled Worldwide:
+- Freelance Art Director
+- </div>
+- 
+- <iframe src="//player.vimeo.com/video/111858211?portrait=0&color=ffffff" width="1024" height="576" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+--------------- NEW
+<div class="project_description"><span><h3>Art Direction, TV</h3><i>Game of War: Fire Age</i>, one of the top-grossing mobile games in the world, has tapped supermodel Kate Upton for its first global marketing campaign that uses traditional media. The first of three spots featuring Upton, by creative shop Untitled Worldwide, will premiere on television this evening with a push during the NFL Network's Thursday night football game.
+
+As the Art Director on this spot I worked with the team to craft the story and build up the intrigue for this first national spot for the Game of War advertising campaign.
+
+<a href="http://www.adweek.com/news/advertising-branding/game-war-fire-age-launches-first-global-campaign-starring-kate-upton-161397" target="_blank">AdWeek write up.</a></span><div class="project_info"><span><b>Client</b>
+Machine Zone
+
+<b>Category</b>
+Art Direction, Advertising, TV
+
+<b>Agency</b>
+Untitled Worldwide:
+Freelance Art Director
+</span></div></div>
+
+---------------------------
+------ GOOGLE CHROME  
+---------------------------
+
+--- OLD
+<div class="project_description"><h1>"Building The Web Together"</h1><h3>Art Direction, Film Direction, Design</h3>For the 2013 Google I/O conference, Google Chrome wanted to thank all the developers that helped make the web what it is today. From a humble beginning of static text, images, and links, the web has grown into a rich platform teeming with interactive content and powerful applications. 
+
+We began by thoroughly researching the history of the net making sure that the facts we presented were accurate and compelling to the developer community. We carefully selected the most exciting moments in webs history. We even analyzed the pixel density of screens and the method that early browsers used to load web pages. The video follows the history of the web to the present day frontier of mobile devices.</div><div class="project_info"><b>Client</b>
+Google
+
+<b>Agency</b>
+B-Reel
+Freelance Art Director</div>
+
+
+<iframe width="1024" height="606" src="http://www.youtube.com/embed/Jzxc_rR6S-U?rel=0" frameborder="0" allowfullscreen></iframe>
+
+{image 1}{image 2}{image 3}
+
+--- NEW
+<div class="project_description"><span><h1>"Building The Web Together"</h1><h3>Art Direction, Film Direction, Design</h3>For the 2013 Google I/O conference, Google Chrome wanted to thank all the developers that helped make the web what it is today. From a humble beginning of static text, images, and links, the web has grown into a rich platform teeming with interactive content and powerful applications. We began by thoroughly researching the history of the net making sure that the facts we presented were accurate and compelling to the developer community. We carefully selected the most exciting moments in webs history. We even analyzed the pixel density of screens and the method that early browsers used to load web pages. The video follows the history of the web to the present day frontier of mobile devices.</span><div class="project_info"><span><b>Client</b>
+Google
+
+<b>Agency</b>
+B-Reel
+Freelance Art Director
+</span></div></div>
+
+
+<iframe width="1024" height="606" src="http://www.youtube.com/embed/Jzxc_rR6S-U?rel=0" frameborder="0" allowfullscreen></iframe>
+
+{image 1}{image 2}{image 3}
+
+---------------------------
+------ INTERNET.ORG
+---------------------------
+
+--- OLD
+<div class="project_description"><h3Art Direction, Digital, Advertising</h3>
+Website and digital ad campaign for internet.org that encompasses 4 engaging stories about people living in parts of the world without internet access. These 4 stories tell visually tell us how they are creating innovative things and living remarkably interesting lives. Ultimately educating us that when we connect everyone, the better everything it get.</div><div class="project_info"><b>Client</b>
+internet.org
+
+<b>Category</b>
+Art Direction, Digital, Advertising
+
+<b>Agency</b>
+B-Reel NYC:
+Freelance Art Director
+</div>
+
+<div class="title">Browser Site</div>
+{slideshow}{image 21}{image 22}{image 23}{image 24}{image 25}{/slideshow}
+
+<div class="title">Responsive Mobile Site</div>
+{image 26}
+
+<div class="title">Banner Ad Campaign</div>
+{image 1}
+{image 2}
+{image 3}
+{image 4}
+{image 5}
+{image 6}
+{image 7}
+{image 8}
+{image 9}
+{image 10}
+{image 11}
+{image 12}
+{image 13}
+{image 14}
+{image 15}
+{image 16}
+{image 17}
+{image 18}
+{image 19}
+{image 20}
+
+--- NEW
+<div class="project_description"><span><h3>Art Direction, Digital, Advertising</h3>
+Website and digital ad campaign for internet.org that encompasses 4 engaging stories about people living in parts of the world without internet access. These 4 stories tell visually tell us how they are creating innovative things and living remarkably interesting lives. Ultimately educating us that when we connect everyone, the better everything it get.</span><div class="project_info"><span><b>Client</b>
+internet.org
+
+<b>Category</b>
+Art Direction, Digital, Advertising
+
+<b>Agency</b>
+B-Reel NYC:
+Freelance Art Director
+</span></div></div>
+
+<div class="title">Browser Site</div>
+{slideshow}{image 21}{image 22}{image 23}{image 24}{image 25}{/slideshow}
+
+<div class="title">Responsive Mobile Site</div>
+{image 26}
+
+<div class="title">Banner Ad Campaign</div>
+{image 1}
+{image 2}
+{image 3}
+{image 4}
+{image 5}
+{image 6}
+{image 7}
+{image 8}
+{image 9}
+{image 10}
+{image 11}
+{image 12}
+{image 13}
+{image 14}
+{image 15}
+{image 16}
+{image 17}
+{image 18}
+{image 19}
+{image 20}
+
+
+---------------------------
+------ SALEM SEASON 2
+---------------------------
+MAUDE CONTENT:
+<iframe frameborder="0" scrolling="no" width="100%" height="800" src="http://www.maudeny.com/clients/wgn/salem_s2/creative/demos/salem_YAHOO_Demo.html"></iframe>
+
